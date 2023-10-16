@@ -14,7 +14,7 @@ We suggest you to create a virtual environment for running this app with Python 
 and open your terminal/command prompt in the root folder.
 
 ```
-git clone https://github.com/alejandromoreno/madrid-noise-pollution
+git clone alejandromoreno/noise-pollution-analysis/madrid-noise-pollution
 cd madrid-noise-pollution
 python3 -m virtualenv venv
 
